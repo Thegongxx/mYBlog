@@ -45,6 +45,13 @@
 			"value": "137017563@qq.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1765542272172",
+			"type": "wechat",
+			"value": "G13906213001",
+			"label": "",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": true,
@@ -53,5 +60,5 @@
 	"hideEditButton": true,
 	"enableCategories": true,
 	"currentHatIndex": 7,
-	"hatFlipped": false
+	"hatFlipped": true
 }
