@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "slug": "test",
+    "title": "本网站第一篇blog——test",
+    "tags": [
+      "test",
+      "文章测试",
+      "first blog"
+    ],
+    "date": "2025-12-13T06:53:26.906Z",
+    "summary": "第一篇blog",
+    "cover": "/blogs/test/48be7f3b64d45db1.jpg",
+    "hidden": false,
+    "category": ""
+  }
+]
