@@ -1,5 +1,18 @@
 [
   {
+    "slug": "4",
+    "title": "一句引用总结我看过的书",
+    "tags": [
+      "阅读",
+      "持续更新"
+    ],
+    "date": "2025-12-20T12:21",
+    "summary": "一本书中最令你印象深刻的话是什么？",
+    "cover": "/blogs/4/28ad376e2075a83b.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "3",
     "title": "你是I人，还是E人？？？",
     "tags": [
