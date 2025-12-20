@@ -1,10 +1,15 @@
 [
   {
     "slug": "3",
-    "title": "",
-    "tags": [],
+    "title": "你是E人，还是I人？",
+    "tags": [
+      "MBTI",
+      "E人",
+      "I人"
+    ],
     "date": "2025-12-20T12:05",
-    "summary": "",
+    "summary": "你知道你是什么人格吗？",
+    "cover": "/blogs/3/e0b5998172090158.jpg",
     "hidden": false,
     "category": ""
   },
