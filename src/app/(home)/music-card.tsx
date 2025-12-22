@@ -11,7 +11,7 @@ import { HomeDraggableLayer } from './home-draggable-layer'
 import { Pause } from 'lucide-react'
 
 // 1. 修改音乐文件路径：确保文件放在 public/music/ 文件夹下
-const MUSIC_FILES = ['/music/christmas.m4a'] 
+const MUSIC_FILES = ['/music/Jingle-Bells-3(chosic.com).mp3'] 
 
 export default function MusicCard() {
 	const center = useCenterStore()
