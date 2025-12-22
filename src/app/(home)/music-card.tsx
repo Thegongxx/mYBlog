@@ -21,8 +21,12 @@ export default function MusicCard() {
 	const clockCardStyles = cardStyles.clockCard
 	const calendarCardStyles = cardStyles.calendarCard
 
+<<<<<<< HEAD
 	// 2. 默认打开：将初始值设为 true
 	const [isPlaying, setIsPlaying] = useState(true)
+=======
+	const [isPlaying, setIsPlaying] = useState(false)
+>>>>>>> parent of f942f6c (Update music-card.tsx)
 	const [currentIndex, setCurrentIndex] = useState(0)
 	const [progress, setProgress] = useState(0)
 	const audioRef = useRef<HTMLAudioElement | null>(null)
@@ -126,8 +130,12 @@ export default function MusicCard() {
 				<MusicSVG className='h-8 w-8' />
 
 				<div className='flex-1'>
+<<<<<<< HEAD
 					{/* 修复了原代码中的文本标签未闭合问题 */}
 					<div className='text-secondary text-sm'>Merry Christmas</div>
+=======
+					<div className='text-secondary text-sm'>圣诞音乐</div>
+>>>>>>> parent of f942f6c (Update music-card.tsx)
 
 					<div className='mt-1 h-2 rounded-full bg-white/60'>
 						<div className='bg-linear h-full rounded-full transition-all duration-300' style={{ width: `${progress}%` }} />
