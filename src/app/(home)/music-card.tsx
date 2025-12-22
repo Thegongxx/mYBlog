@@ -37,21 +37,6 @@ export default function MusicCard() {
 
 		const audio = audioRef.current
 
-		// 尝试在加载元数据后立即播放
-    const handleLoadedMetadata = () => {
-        if (audio.duration) {
-            setProgress((audio.currentTime / audio.duration) * 100)
-        }
-        // 如果初始状态是播放，则尝试播放
-        if (isPlaying) {
-            audio.play().catch(err => {
-                console.log("浏览器拦截了自动播放，等待用户交互: ", err)
-                // 如果被拦截，先重置状态，防止 UI 显示正在播放但实际没声音
-                setIsPlaying(false) 
-            })
-        }
-    }
-
 		const updateProgress = () => {
 			if (audio.duration) {
 				setProgress((audio.currentTime / audio.duration) * 100)
