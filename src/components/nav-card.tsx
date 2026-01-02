@@ -37,6 +37,12 @@ const list = [
 		label: 'introduction',
 		href: '/about'
 	},
+	{
+		icon: ShareOutlineSVG,
+		iconActive: ShareFilledSVG,
+		label: '推荐分享',
+		href: '/share'
+	},
 ]
 
 const extraSize = 8
