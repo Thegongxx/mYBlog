@@ -1,7 +1,7 @@
 [
 	{
 		"name": "NotebookLM",
-		"logo": "blob:https://www.gohgxx.top/93f0fbd7-baac-44cd-8ebf-52c8bba8ae01",
+		"logo": "/images/share/c60cb448c87eb0b6.jpeg",
 		"url": "https://notebooklm.google/",
 		"description": "NotebookLM 是 Google 推出的一款 AI 驱动笔记与研究工具，能基于用户上传的文档自动生成摘要、回答问题，并创建播客式音频概述，帮助高效整理复杂信息。",
 		"tags": [
@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "Gemini",
-		"logo": "blob:https://www.gohgxx.top/5c6d9cad-f259-44bb-80d0-020703ab02a6",
+		"logo": "/images/share/6153e62271c01b51.png",
 		"url": "https://gemini.google.com/",
 		"description": "Gemini 是 Google DeepMind 开发的最新多模态 AI 模型系列，能原生处理文本、图像、视频、音频和代码等多种输入，提供先进的推理、创意生成、工具使用和代理能力，帮助用户高效学习、构建和规划复杂任务。",
 		"tags": [
@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Grok",
-		"logo": "blob:https://www.gohgxx.top/196497bf-ae61-4e31-8839-4ea3d2cc4c9f",
+		"logo": "/images/share/e61873d90a0f0c7e.png",
 		"url": "https://grok.com/",
 		"description": "Grok 是 xAI 开发的先进多模态 AI 模型系列，以最大真理寻求、幽默风趣和强大推理能力著称，能处理文本、图像、代码、实时信息等多任务，帮助用户高效探索复杂问题。这是我最推荐的大模型，免费，无法想象将X内置Grok是多么明智的选择！",
 		"tags": [
